@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Stade Mohammed V",
+      "description": "The Mohammed V Stadium (Arabic: ملعب محمد الخامس, French: Stade Mohammed V)[2][3] is a multi-purpose stadium which is part of the Mohammed V Athletic Complex (المركب الرياضي محمد الخامس) which is named after King Mohammed V and situated at the heart of Casablanca, Morocco, in the western part of the Maârif neighborhood. The stadium has a seating Capacity of 45,891, and is the oldest football stadium in Morocco. ",
+      "Capacity":"45,891",
+      "Location":"Rue al-Azrak Ahmed, Maârif, Casablanca, Morocco",
+      "Opened": "6 mars 1955",
+      "images": [
+        "https://www.casa-amenagement.ma/uploads/projets/400x400/9a964549fdea23fae2d8667d39a681872679de05.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXiS1Jn3HoklZ1dDxxIm-D_teTTDz_98GfUw0AOoh_pSkqeomWem5Ld63DdgzzbOEzEg&usqp=CAU",
+        <iframe src=\"https://www.google.com/maps/embed?pb=!4v1702555216168!6m8!1m7!1sCAoSLEFGMVFpcE1yN1ZQd3NXTHRLcDZ4bkFCVmc2WmJaUFpDRm1BRmNucmpXOHFt!2m2!1d33.5828551101874!2d-7.646968993029532!3f231.52446718674113!4f0!5f0.7820865974627469\" width=\"100%\" height=\"300px\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>
+
+      ],
+      "Renovated":"1983, 2000, 2016 et 2019"
+    },
+    {
+      "id": 2,
+      "name": "Stade Adrar",
+      "description": "Adrar Stadium  (Berber: ⴰⴱⴰⵔⴰⵣ ⵏ ⴰⴷⵔⴰⵔ, Arabic: ملعب أدرار) is a multi-use stadium in Agadir, Morocco, that was inaugurated in 2013. It is used mostly for football matches. The stadium has a Capacity of 45,480 seat.[1] It was supposed to hold 2010 FIFA World Cup games if Morocco had been chosen to be the host country.",
+      "Capacity": 45480,
+      "Location": "Agadir, Morocco",
+      "Opened": 2011,
+      "Renovated": "July,2018",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvcwElb-3eh7_Y94IhZZu7cZrxZEoH486aJe1g7va4PkwhrVgYf1_PbalpRUvq5sBp8nw&usqp=CAU",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Stade-Adrar2019.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Grand stade de Marrakech",
+      "description": "Located in Marrakech, this football stadium has a seating Capacity of 45,240. It is the home ground of the football club Kawkab Marrakech. The stadium was built in 1953 and has been Renovated several times, most recently in 2015.",
+      "Capacity": 41240,
+      "Location": "Marrakech, Morocco",
+      "Opened": "March 2011",
+      "Renovated": 2015,
+      "images": [
+        "https://ic7m.com/images/stade/s5.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stade_de_marrakech.jpg",
+        <iframe src="https://www.google.com/maps/embed?pb=!4v1702555493715!6m8!1m7!1sCAoSLEFGMVFpcE1US0VENTdHMVMzc1FubFN3QnlEU2ZEVXpiYkNmVTZjSHBpT2NW!2m2!1d31.7069841!2d-7.9804932!3f80.51231004140477!4f0!5f0.7820865974627469" width="100%" height="300px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Stade Ibn Batouta",
+      "description": "Located in Tangier, this multi-purpose stadium has a seating Capacity of 45,000. It is the home ground of the football club Ittihad Tanger. The stadium was built in 2011 and is one of the newest and most modern stadiums in Morocco.",
+      "Capacity": 45000,
+      "Location": "Tangier, Morocco",
+      "Opened": 2011,
+      "Renovated": "April,2018",
+      "images": [
+        "https://chantiersdumaroc.ma/wp-content/uploads/2017/10/grand-stade-tanger.jpg",
+        "https://pbs.twimg.com/media/FsFJ5nvWAAE3fWg.jpg:large"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Stade Moulay Abdellah",
+      "description": "Located in Rabat, this multi-purpose stadium has a seating Capacity of 53,000. It is the national stadium of Morocco and hosts both football and athletics events. The stadium was built in 1983 and has been Renovated several times, most recently in 2014.",
+      "Capacity": 53000,
+      "Location": "Rabat, Morocco",
+      "Opened": 1983,
+      "Renovated": 2014,
+      "images": [
+        "https://mobile.ledesk.ma/wp-content/uploads/2021/03/Stade-Prince-Moulay-Abdellah.jpeg",
+        "https://www.info-stades.fr/uploads/stades/plan-toulouse-stadium.jpg",
+        <iframe src=\"https://www.google.com/maps/embed?pb=!4v1702555614133!6m8!1m7!1sCAoSLEFGMVFpcE5KSDloSTJvSGVHWW5QNGtkZ0d2bGNwZzhQdERMdk14Z1JXdnc4!2m2!1d33.9604591!2d-6.890031400000001!3f55.81700875480329!4f-16.359159936652347!5f0.7820865974627469\" width=\"100%\" height=\"300px\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fez Stadium",
+      "description": "Nestled in the heart of the historical city of Fez, the Stade du Complexe Sportif de Fès, also known as the Fez Stadium, stands as a symbol of Morocco's commitment to modern sporting infrastructure. This multi-purpose stadium, boasting a Capacity of 45,000, pulsates with energy, hosting a vibrant mix of football matches, athletic events, and other cultural spectacles.",
+      "Capacity": 42000,
+      "Location": "Rabat, Morocco",
+      "Opened": "25 November 2000",
+      "Renovated": 2018,
+      "images": [
+        "https://www.skyscrapercity.com/attachments/d77f91f7-421d-4084-b967-a35db63623f2-jpeg.1716103/",
+        "https://www.skyscrapercity.com/attachments/36383769-2638-437e-b4f5-d21eb053ad10-jpeg.6171993/"
+      ]
+    }
+  ]
